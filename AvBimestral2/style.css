@@ -15,7 +15,12 @@
   width: auto;
 }
 #miniatura{
-  margin-top: 85px;
+  margin-left: 20px;
+  width: 10px;
+  border-radius:20px;
+}
+#miniaturaLinha2{
+  margin-top: 135px;
   margin-left: 20px;
   width: 180px;
   border-radius:20px;
@@ -50,17 +55,16 @@
 label{
   margin: 20px;
   position: absolute;
-  font-size: 25px;
-  white-space: nowrap;
+  font-size: 20px;
   overflow: hidden;
   text-overflow: ellipsis;
   width: 180px;
   color:rgb(255, 255, 255);
-  top: 335px;
+  top: 255px;
 }
 .data{
   color: rgb(163, 152, 152);
- top: 375px;
+ top: 325px;
 }
 .Coluna1, .Coluna2, .Coluna3, .Coluna4, .Coluna5, .Coluna6{
   position: relative;
